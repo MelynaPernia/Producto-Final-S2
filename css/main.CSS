@@ -1,0 +1,48 @@
+/*------------main------------*/
+body{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+
+main {
+  padding: 2vh;
+  background-color: #f1f1f1;
+}
+
+
+#ejemplo {
+  width: 50vw;
+  height: 40vh;
+
+}
+
+
+
+.container-one {
+  display: flex;
+  align-items: center;
+}
+.box-medium-size {
+  box-sizing: border-box;
+  width: 35vw;
+  height: auto;
+  background-color: #ffffff;
+  font-size: 14px;
+  margin: 5px;
+}
+.box-size {
+  box-sizing: border-box;
+  width: 97vw;
+  height: auto;
+  background-color: #ffffff;
+  display: inline-flex;
+  margin: 5px;
+  font-size: 14px;
+
+
+}
+/*------------fin main------------*/
